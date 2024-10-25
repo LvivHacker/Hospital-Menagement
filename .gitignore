@@ -1,0 +1,14 @@
+# Backend venv
+env/
+
+# Python specific
+__pycache__/
+*.py[cod]
+
+# Node.js specific
+node_modules/
+build/
+public/
+
+# Environment variables
+.env
